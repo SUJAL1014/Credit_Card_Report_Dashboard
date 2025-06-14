@@ -47,7 +47,7 @@ The dashboard is powered by a CSV file containing credit card transaction data w
 
 ---
 
-## 📈 Use Case
+## 📈 Use Cases
 
 This dashboard is ideal for:
 
